@@ -1,0 +1,49 @@
+
+@import url("/images/bg-intro-desktop.png");
+
+body {
+    background-image: url("./images/bg-intro-desktop.png");
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+.footer-text {
+  font-size:x-small;
+  margin-left: 20px;
+}
+
+.header-tag {
+  margin-top:-530px;
+  border-radius: 15px;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-top: 20px;
+  padding-bottom: 12px;
+  }
+
+ 
+
+.left-text {
+  margin-top:150px;
+  margin-left: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.body-text {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.right-box {
+  align-items: center;
+  justify-items: center;
+  margin-right: 400px;
+  margin-left: 100px;
+}
